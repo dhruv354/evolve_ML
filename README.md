@@ -1,5 +1,5 @@
 # evolve_ML
-### Untitled.ipynb represents Model created ulatimately woth mobilenet
+### Untitled.ipynb represents Model created ultimately woth mobilenet
 * train_accuracy: 99%
 * test_accuracy : 50%
 
